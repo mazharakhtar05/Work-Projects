@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package JavaPractice;
+=======
+
+>>>>>>> 50d7dc5b2fe3c288e7ca78e5049d0b007631553e
 /*
 Write a program that will ask the user to enter his/her marks (out of 100). Define a method that will display grades according to the marks entered as below:
 Marks        Grade 
@@ -14,8 +18,8 @@ Marks        Grade
 import java.util.Scanner;
 
 
+
 public class Grade {
-    
     static int inputMarks(){
         System.out.println("Enter Your Marks (out of 100 )");
         Scanner sc = new Scanner(System.in);
