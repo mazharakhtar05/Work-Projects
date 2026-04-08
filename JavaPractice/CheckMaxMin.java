@@ -64,3 +64,5 @@ public class CheckMaxMin {
         Minimum(num[0], num[1], num[2]);
     }
 }
+
+//Nested try-catch block in java
